@@ -1,4 +1,4 @@
-# strumenti-e-tecnologie-di-base
+# Strumenti e tecnologie di base
 
 
 Studiare ognuno di questi argomenti studiare il funzionamento e fare un riassunto descrittivo di almeno 5 righe riportando quali sono le caratteristiche essenziali che più ti colpiscono.
