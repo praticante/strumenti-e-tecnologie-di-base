@@ -7,7 +7,7 @@ per ognuno degli argomenti scrivere tre parole chiave che non siano contenute ne
 
 
 1. Git - Version Control: gestire le codebase lavorare in maniera collaborativa
-[Approfondimento](docs/CONTRIBUTING.md)
+[(Approfondimento)](GIT.md)
 
 
 2. Basic Terminal Usage e Linux: padronanza dei tool da riga di comando e di shell linux
