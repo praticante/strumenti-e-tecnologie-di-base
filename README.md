@@ -24,6 +24,10 @@ Gratuito,comandi utente, CLI (interfaccia a riga di comando).
 Linux è il kernel di un sistema operativo, Linux è utilizzato principalmente nei server. 
 Circa il 90% di Internet è alimentato da server Linux. Questo perché Linux è veloce, sicuro e gratuito.
 Il sistema operativo che viene eseguito in circa l'80% degli smartphone nel mondo, Android, è anch'esso prodotto dal kernel Linux.
+[[Approfondimento]](TERMINAL.md)
+
+
+
 
 3. Data Structures & Algorithms: Le strutture dati, come Array Multidimensionali e chiavi non intere, Iterazioni, Foreach e ricorsioni
  	 	
